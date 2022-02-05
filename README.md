@@ -1,4 +1,10 @@
-# AngularCoingeckoApi
+# Crypto Coins Market with Angular and CoinGecko API
+
+![Crypto Coins Market - Principal Page](/docs/principal-page.png)
+
+![Crypto Coins Market - Searching Coins](/docs/searching-coin.png)
+
+# Angular Coingecko Api
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
